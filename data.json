@@ -1,0 +1,37 @@
+[
+  {
+    "location": "Gryffindor Tower",
+    "hint": "Portrait of a fat lady",
+    "password": "Fortuna Major"
+  },
+  {
+    "location": "Hogwarts Library",
+    "hint": "Behind the Restricted Section",
+    "password": "Ars Librorum"
+  },
+  {
+    "location": "Room of Requirement",
+    "hint": "Hidden behind the tapestry",
+    "password": "Tempus Secretum"
+  },
+  {
+    "location": "Honeydukes",
+    "hint": "Inside the chocolate frog display",
+    "password": "Cacao Maxima"
+  },
+  {
+    "location": "Forbidden Forest",
+    "hint": "Under the Whomping Willow roots",
+    "password": "Lumos Silva"
+  },
+  {
+    "location": "Gryffindor Common Room",
+    "hint": "Behind the portrait of the Fat Lady",
+    "password": "Courageous Heart"
+  },
+  {
+    "location": "Clock Tower",
+    "hint": "Smash smash",
+    "password": "Abracadabra"
+  }
+]
